@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "112194018171",
+    "firebase_url": "https://push-notification-a9f7b.firebaseio.com",
+    "project_id": "push-notification-a9f7b",
+    "storage_bucket": "push-notification-a9f7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112194018171:android:458e440a4c7e838d",
+        "android_client_info": {
+          "package_name": "com.pwc.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112194018171-8m2tr3v62u6tbrg679dlakq10q98jcgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBisvjP1KAztYewLUAYk8WmZcfQvtMtZfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
